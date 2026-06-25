@@ -1,25 +1,21 @@
-Nama Kelompok (3) : G-Debug
-Pembagian Pengerjaan Interface :
-1. Halaman welcome dan halaman beranda : Najwa Nisrina            (24082010174)
-2. Halaman registrasi akun             : Faren Tresandra Nafasya  (24082010154)
-3. Halaman profil                      : Hanif Rasendra           (24082010166)
-4. Halaman form pencatatan lari        : Afianto Hadi Nurrochman  (24082010137)
+Kelompok (3) : G-Debug
 
-Pembagian Navigasi dan Validasi :
-1. Afianto Hadi Nurrochman  (24082010137)    : Validasi dan Dokumentasi
-2. Faren Tresandra Nafasya  (24082010154)    : Redesign
-3. Hanif Rasendra           (24082010166)    : Navigasi dan Validasi
-4. Najwa Nisrina            (24082010174)    : Redesign
-Referensi Gambar :  - https://github.com/worldsat/project205/blob/main/drawable-hdpi/top_wave.png
-                    - https://share.google/DbYvExVtN33j2MkBX
-                    - https://share.google/H3mFHEpDWEAXqEdG0
-                    - https://canva.link/d1b3pdvucyceqad
-                    - https://citymagazine.b-cdn.net/wp-content/uploads/2024/06/Trail_collection_men-1-1-jpg-e1717825403772.webp
-                    - https://www.freepik.com/premium-ai-image/person-walking-mountain-with-trail-running-shoe-it_45111248.htm
-                    - https://github.com/worldsat/project39
+Nama: Faren Tresandra Nafasya
 
-Fitur-fitur yang tersedia :
-1. Login pengguna (pengguna HARUS melakukan registrasi terlebih dahulu untuk bisa ke dashboard)
-2. Registrasi pengguna (pengguna bisa menyimpan data diri mereka terlebih dahulu untuk bisa login)
-3. Catat Lari (pengguna dapat membuat histori lari meraka)
-4. Lihat Catat Lari (pengguna dapat melihat detail dari histori lari mereka)
+NPM: 24082010154
+
+
+
+CatatLari merupakan aplikasi pencatatan aktivitas lari yang membantu pengguna menyimpan dan mengelola riwayat lari secara digital. Aplikasi ini memungkinkan pengguna untuk melakukan registrasi akun, masuk ke dalam sistem, serta mencatat dan melihat histori aktivitas lari yang telah dilakukan.
+
+
+
+Daftar Fitur:
+
+1. Registrasi Pengguna
+Fitur ini digunakan untuk membuat akun baru sebelum pengguna dapat masuk ke dalam aplikasi. Pengguna harus mengisi beberapa data diri, antara lain Nama Lengkap, Gender, Email, dan Password.
+2. Catat Lari
+Fitur ini memungkinkan pengguna untuk menambahkan riwayat aktivitas lari yang telah dilakukan. Data yang dapat dicatat meliputi Tanggal lari, Jarak tempuh, Waktu tempuh, dan Lokasi lari.
+3. Lihat Catatan Lari
+Fitur ini memungkinkan pengguna untuk melihat detail histori lari yang telah disimpan. Informasi yang ditampilkan meliputi Tanggal lari, Lokasi lari, Jarak tempuh, dan Waktu tempuh.
+
